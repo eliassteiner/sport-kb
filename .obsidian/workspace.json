@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/acro/Tricks I.md",
+                "file": "technical/Trick Analyse.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/acro/Tricks I.md",
+                "file": "technical/Trick Analyse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/acro/Tricks I.md",
+                "file": "technical/Trick Analyse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/acro/Tricks I.md"
+                "file": "technical/Trick Analyse.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "edae5a823bc06f98",
   "lastOpenFiles": [
+    "technical/backflip.md",
+    "technical/Trick Analyse.md",
     "technical/acro/Tricks I.md",
     "technical/trampoline/Sprünge I.md",
-    "technical/backflip.md",
     "org/trainingsplanung",
     "technical/trampoline/Sprünge IV.md",
     "technical/trampoline/Sprünge III.md",
