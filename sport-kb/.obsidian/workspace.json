@@ -6,6 +6,7 @@
       {
         "id": "3dba7dc6b340122f",
         "type": "tabs",
+        "dimension": 77.91878172588832,
         "children": [
           {
             "id": "a1b7ab2b0ed016d1",
@@ -13,17 +14,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "technical/trampoline/Sprünge II.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f31191c2c118b9a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technical/trampoline/Sprünge I.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d3e6209aa5800eea",
         "type": "tabs",
+        "dimension": 22.081218274111674,
         "children": [
           {
             "id": "3cdd362b49539106",
@@ -99,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "technical/trampoline/Sprünge I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "technical/trampoline/Sprünge I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "technical/trampoline/Sprünge I.md"
               }
             }
           }
@@ -160,8 +175,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1b7ab2b0ed016d1",
+  "active": "f31191c2c118b9a9",
   "lastOpenFiles": [
-    "Welcome.md"
+    "technical/trampoline/Sprünge IV.md",
+    "technical/trampoline/Sprünge III.md",
+    "technical/trampoline/Sprünge II.md",
+    "technical/trampoline/Sprünge I.md",
+    "Welcome.md",
+    "technical",
+    "technical/acro",
+    "technical/trampoline",
+    "org"
   ]
 }
