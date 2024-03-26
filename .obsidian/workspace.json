@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "0a527831b8c2833f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b696d51fb61912d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edae5a823bc06f98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technical/Trick Analyse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be3b086e76b596e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "98b61ed675d1edf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f0b713a8f1973a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ac2c275cf676483",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "299c7ee4157e33ae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "61c2e0f8e781445d",
+    "type": "split",
+    "children": [
+      {
+        "id": "84e1da65f2333aed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b2d1c0a57a62afb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "technical/Trick Analyse.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e1157eadae124cc6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "technical/Trick Analyse.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c92dd43f26d6dee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c2ea03327c5156df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "technical/Trick Analyse.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "edae5a823bc06f98",
+  "lastOpenFiles": [
+    "technical/backflip.md",
+    "technical/Trick Analyse.md",
+    "technical/acro/Tricks I.md",
+    "technical/trampoline/Sprünge I.md",
+    "org/trainingsplanung",
+    "technical/trampoline/Sprünge IV.md",
+    "technical/trampoline/Sprünge III.md",
+    "technical/trampoline/Sprünge II.md",
+    "reademe.md.md"
+  ]
+}
