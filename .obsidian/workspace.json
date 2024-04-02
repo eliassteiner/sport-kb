@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/Trick Analyse.md",
+                "file": "technical/trampoline/Sprünge III.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/Trick Analyse.md",
+                "file": "technical/trampoline/Sprünge III.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/Trick Analyse.md",
+                "file": "technical/trampoline/Sprünge III.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/Trick Analyse.md"
+                "file": "technical/trampoline/Sprünge III.md"
               }
             }
           }
@@ -148,14 +148,23 @@
   },
   "active": "edae5a823bc06f98",
   "lastOpenFiles": [
-    "technical/backflip.md",
-    "technical/Trick Analyse.md",
+    "technical/trampoline/Sprünge II.md",
+    "technical/trampoline/Sprünge III.md",
+    "technical/trampoline/Sprünge IV.md",
     "technical/acro/Tricks I.md",
     "technical/trampoline/Sprünge I.md",
-    "org/trainingsplanung",
-    "technical/trampoline/Sprünge IV.md",
-    "technical/trampoline/Sprünge III.md",
-    "technical/trampoline/Sprünge II.md",
-    "reademe.md.md"
+    "technical/acro/L-Base Elements I.md",
+    "technical/acro/L-Base Elements II.md",
+    "technical/basis/Grundposen.md",
+    "technical/acro/Standing Elements I.md",
+    "technical/acro/Standing Elements II.md",
+    "technical/basis",
+    "technical/Trick Analyse.md",
+    "technical/Element Analyse.md",
+    "technical/Diskusion gestreckt vs Gehockt.md",
+    "technical/Untitled.md",
+    "technical/backflip.md",
+    "reademe.md.md",
+    "org/trainingsplanung"
   ]
 }
