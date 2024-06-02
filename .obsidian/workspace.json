@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4d93daac1c2bf5ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technical/acro/Lektionen/Intro into Standing & Spotting I.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f2a0ff91bb2852f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technical/trampoline/Sprünge III.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,31 +171,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edae5a823bc06f98",
+  "active": "9f2a0ff91bb2852f",
   "lastOpenFiles": [
-    "technical/trampoline/Sprünge II.md",
-    "technical/trampoline/Sprünge III.md",
     "technical/trampoline/Sprünge IV.md",
-    "technical/acro/Tricks I.md",
+    "technical/trampoline/Sprünge III.md",
+    "technical/trampoline/Sprünge II.md",
     "technical/trampoline/Sprünge I.md",
+    "reademe.md.md",
+    "routen core 1.md",
+    "config core 1.md",
+    "core 1 for mgmt.md",
+    "technical/acro/Lektionen/Intro into Standing & Spotting I.md",
+    "technical/Spotting.md",
+    "technical/acro/Lektionen",
     "technical/acro/L-Base Elements I.md",
-    "technical/acro/L-Base Elements II.md",
-    "technical/basis/Grundposen.md",
-    "technical/acro/Standing Elements I.md",
+    "technical/acro/Icarain I.md",
+    "technical/acro/Elemente/L-Base Bird.md",
+    "technical/acro/Whips I.md",
+    "technical/acro/Standing Elements III.md",
     "technical/acro/Standing Elements II.md",
+    "technical/acro/Standing Elements I.md",
+    "technical/acro/Elemente",
+    "technical/Element Analyse.md",
+    "technical/Trick Analyse.md",
+    "technical/acro/Tricks I.md",
     "technical/basis/Grundposen.md",
     "technical/basis",
-    "technical/Trick Analyse.md",
-    "technical/Element Analyse.md",
     "technical/Diskusion gestreckt vs Gehockt.md",
-    "technical/trampoline/Sprünge IV.md",
-    "technical/trampoline/Sprünge III.md",
-    "technical/trampoline/Sprünge II.md",
-    "technical/trampoline/Sprünge I.md",
-    "technical/acro/Tricks I.md",
-    "technical/Untitled.md",
     "technical/backflip.md",
-    "reademe.md.md",
     "org/trainingsplanung"
   ]
 }
